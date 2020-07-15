@@ -375,7 +375,7 @@
         },
         "mysql": {
           "name": "mysql",
-          "version": "2.18.1",
+          "version": "2.6.0",
           "dev": false,
           "language": "nodejs"
         }
@@ -393,7 +393,7 @@
     "platformRegions": {
       "AWS": "us-east-1"
     },
-    "lastSave": 1594801888223
+    "lastSave": 1594801949387
   },
   "VCS_STATE": {
     "provider": "GitHub",
