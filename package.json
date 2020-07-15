@@ -2,8 +2,7 @@
   "name": "kvardep",
   "version": "1.0.0",
   "dependencies": {
-    "aws-sdk": "2.644.0",
-    "mysql": "2.6.0"
+    "aws-sdk": "2.644.0"
   },
   "devDependencies": {}
 }
